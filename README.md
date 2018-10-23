@@ -1,17 +1,16 @@
-[![Build Status]()]()
+[![Build Status](https://travis-ci.org/justbartlett/es6pack.svg?branch=master)](https://travis-ci.org/justbartlett/es6pack)
 
-A very simple Typescript starter using Webpack
+# ES6 Starter
 
-## Features
+Just a simple Typescript + Webpack boilerplate
 
+```
+npm start
+npm run build
+npm run build.prod
+npm run test
+```
 - [x] Testing
 - [x] Webpack 4
 - [x] TypeScript
 - [x] Linting
-
-```
-npm start
-npm run build 
-npm run build.prod
-npm run test
-```
