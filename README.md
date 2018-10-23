@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/justbartlett/es6pack.svg?branch=master)](https://travis-ci.org/justbartlett/es6pack)
+[![Build Status](https://api.travis-ci.com/justbartlett/es6pack.svg?token=NYSpwtmqiR7rQmv4x5YA&branch=master)](https://travis-ci.org/justbartlett/es6pack)
 
 # ES6 Starter
 
